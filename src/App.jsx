@@ -5,8 +5,8 @@ import AddProduct from "./components/add-product-form/add-product";
 
 export default function App() {
   return (
-    <AddProduct>
-    
-    </AddProduct>
+    <TaskPage>
+
+    </TaskPage>
   );
 }
